@@ -1,0 +1,11 @@
+name: clone
+version: 0.1.0
+author: Matan Lurey <matan@lurey.org>
+description: Simple functions for cloning objects in Dart.
+homepage: https://github.com/matanlurey/clone
+
+environment:
+  sdk: '>=1.21.0 <2.0.0'
+
+dev_dependencies:
+  test: '^0.12.0'
